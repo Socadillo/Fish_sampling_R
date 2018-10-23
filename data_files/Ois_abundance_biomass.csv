@@ -1,0 +1,25 @@
+Species,Section,Mesohabitat,Habitat_dis,Ind_ha,kg_ha,Ind_ha_dis,kg_ha_dis
+All Species,Hinterleiten,Pool,0.3,3387.22,229,1016.17,68.7
+All Species,Hinterleiten,Run,0.27,2246.72,69.47,606.62,18.76
+All Species,Hinterleiten,Riffle,0.43,3021.65,44.33,1299.31,19.06
+All Species,Rothschild,Pool,0.13,4192.75,475.23,553.44,62.73
+All Species,Rothschild,Run,0.47,1661.23,86.51,777.46,40.49
+All Species,Rothschild,Riffle,0.4,2643.75,53.25,1065.43,21.46
+Salmo trutta,Hinterleiten,Pool,0.3,2661.07,160.84,798.32,48.25
+Salmo trutta,Hinterleiten,Run,0.27,1873.8,36.22,505.93,9.78
+Salmo trutta,Hinterleiten,Riffle,0.43,2605.66,36.21,1120.43,15.57
+Salmo trutta,Rothschild,Pool,0.13,3285.55,273.83,433.69,36.15
+Salmo trutta,Rothschild,Run,0.47,1345.81,63.77,629.84,29.85
+Salmo trutta,Rothschild,Riffle,0.4,2213.37,47.67,891.99,19.21
+Onchorhynchus mykiss,Hinterleiten,Pool,0.3,714.47,67.01,214.34,20.1
+Onchorhynchus mykiss,Hinterleiten,Run,0.27,360.38,33.16,97.3,8.95
+Onchorhynchus mykiss,Hinterleiten,Riffle,0.43,410.67,7.78,176.59,3.34
+Onchorhynchus mykiss,Rothschild,Pool,0.13,882.69,189.19,116.51,24.97
+Onchorhynchus mykiss,Rothschild,Run,0.47,315.42,22.74,147.62,10.64
+Onchorhynchus mykiss,Rothschild,Riffle,0.4,422.69,5.58,170.35,2.25
+Thymallus thymallus,Hinterleiten,Pool,0.3,11.68,1.14,3.5,0.34
+Thymallus thymallus,Hinterleiten,Run,0.27,12.54,0.09,3.39,0.02
+Thymallus thymallus,Hinterleiten,Riffle,0.43,5.32,0.34,2.29,0.15
+Thymallus thymallus,Rothschild,Pool,0.13,24.52,12.21,3.24,1.61
+Thymallus thymallus,Rothschild,Run,0.47,0,0,0,0
+Thymallus thymallus,Rothschild,Riffle,0.4,0,0,0,0

@@ -1,0 +1,19 @@
+"Brown trout"	"Rainbow trout"	"Combined Salmonids"
+"Ois River"	119	144	123
+"Hinterleiten"	112	141	117
+"Rothschild"	132	151	135
+"Pools"	153	203	164
+"Riffles"	100	100	100
+"Runs"	117	135	120
+"Hinterland-Lower"	105	134	109
+"Hinterland-Lower Pools"	127	153	133
+"Hinterland-Lower Riffles"	95	114	97
+"Hinterland-Lower Runs"	97	123	101
+"Hinterland-Upper"	117	144	122
+"Hinterland-Upper Pools"	159	210	170
+"Hinterland-Upper Riffles"	98	101	98
+"Hinterland-Upper Runs"	113	133	117
+"Rothschild-Upper"	132	151	135
+"Rothschild-Upper Pools"	175	248	190
+"Rothschild-Upper Riffles"	105	93	103
+"Rothschild-Upper Runs"	141	145	141
